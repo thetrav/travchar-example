@@ -1,0 +1,205 @@
+[
+  {"name": "Admin"},
+  {"name": "Advocate"},
+  {"name": "Animals", 
+    "specialisations": [
+      "Riding",
+      "Vetinary",
+      "Training"
+    ]
+  },
+  {"name": "Athletics",
+    "specialisations": [
+      "Co-ordination",
+      "Endurance",
+      "Strength"
+    ]
+  },
+  {"name": "Archery"},
+  {"name": "Art", 
+    "subSkills": [
+      "Acting",
+      "Dance",
+      "Holography",
+      "Instrument",
+      "Sculpting",
+      "Writing"
+    ]
+  },
+  {"name": "Astrogation"},
+  {"name": "Battledress"},
+  {"name": "Broker"},
+  {"name": "Carouse"},
+  {"name": "Comms"},
+  {"name": "Computers"},
+  {"name": "Deception"},
+  {"name": "Diplomat"},
+  {"name": "Drive",
+    "specialisations": [
+      "Bike",
+      "Mole",
+      "Tracked",
+      "Wheeled"
+    ]
+  },
+  {"name": "Engineering",
+    "specialisations": [
+      "Electronics",
+      "J-Drive",
+      "Life Support",
+      "M-Drive",
+      "Power"
+    ]
+  },
+  {"name": "Explosives"},
+  {"name": "Flyer",
+    "specialisations": ["Fixed Wing", "Grav", "Rotary Wing"]
+  },
+  {"name": "Gambling"},
+  {"name": "Gunnery",
+    "specialisations": ["Bays", "Ortillery", "Screens", "Turrets"]
+  },
+  {"name": "Gun Combat",
+    "specialisations": [
+      "Energy Pistol",
+      "Energy Rifle",
+      "Slug Pistol",
+      "Slug Rifle",
+      "Support Weapon"
+    ]
+  },
+  {"name": "Heavy Weapons",
+    "specialisations": [
+      "Advanced Grenade Pod",
+      "Conventional Artillery",
+      "Grenade Launcher",
+      "Laser Designation",
+      "Man-portable Artillery",
+      "Meson Artillery",
+      "Mortar",
+      "Rocket/Missile",
+      "Vehicle Gunnery"
+    ]
+  },
+  {"name": "Investigate"},
+  {"name": "Jack of All Trades"},
+  {"name": "Language",
+    "specialisations": [
+      "Galanglic (Trade Tongue)",
+      "Gvegh (Common Vagr)",
+      "Karak'kree (K'kree)",
+      "Oynpirith (Droyne)",
+      "Trokh (Aslan)",
+      "Vilani (Traditional)",
+      "Zdetl (Zhodani)",
+      "Various Local Dialects and Others"
+    ]
+  },
+  {"name": "Leadership"},
+  {"name": "Mechanic"},
+  {"name": "Medic"},
+  {"name": "Melee",
+    "specialisations": [
+      "Bayonet",
+      "Blade",
+      "Bludgeon",
+      "Brawling",
+      "Martial Arts",
+      "Natural Weapon",
+      "Personal Energy Weapon"
+    ]
+  },
+  {"name": "Navigation"},
+  {"name": "Persuade"},
+  {"name": "Pilot",
+    "specialisations": [
+      "Atmospheric Operations",
+      "Capital Ships",
+      "Small Craft",
+      "Spacecraft"
+    ]
+  },
+  {"name": "Recon"},
+  {"name": "Remote Operations"},
+  {"name": "Life Sciences",
+    "specialisations": [
+      "Biology",
+      "Cybernetics",
+      "Genetics",
+      "Psionicology",
+      "Xenology"
+    ]
+  },
+  {"name": "Physical Sciences",
+    "specialisations": [
+      "Advanced Mathematics",
+      "Artificial Intelligence",
+      "Chemistry",
+      "Gravitics",
+      "Orbital Mechanics",
+      "Physics"
+    ]
+  },
+  {"name": "Social Sciences",
+    "specialisations": [
+      "Archaeology",
+      "Economics",
+      "History",
+      "Philosophy",
+      "Political Science",
+      "Psychology",
+      "Sophontology"
+    ]
+  },
+  {"name": "Space Sciences",
+    "specialisations": [
+      "Cosmology",
+      "Jump Theory",
+      "Orbital Mechanics",
+      "Planetology",
+      "Stellar Astronomy"
+    ]
+  },
+  {"name": "Seafarer",
+    "specialisations": [
+      "Sailing",
+      "Ships",
+      "Small Craft",
+      "Submarine"
+    ]
+  },
+  {"name": "Sensors"},
+  {"name": "Stealth"},
+  {"name": "Steward"},
+  {"name": "Streetwise"},
+  {"name": "Survival"},
+  {"name": "Tactics",
+    "subSkills": [
+      "Military Tactics",
+      "Naval Tactics",
+      "Wet Navy Tactics"
+    ]
+  },
+  {"name": "Trade",
+    "subSkills": [
+      "Advertising",
+      "Agritech",
+      "Armourer",
+      "Aviation Engineering",
+      "Biologicals",
+      "Civil Engineering",
+      "Electronics",
+      "Metallurgy",
+      "Mining",
+      "Naval Architecture",
+      "Pharmaceuticals",
+      "Polymers",
+      "Robotics",
+      "Software",
+      "Urban Maintenance",
+      "Various others"
+    ]
+  },
+  {"name": "Vac Suit"},
+  {"name": "Zero G"}
+]
